@@ -13,3 +13,7 @@ Run:
 3. Chạy file backend.py để thực hiện chạy backend kết nối với fontend.
 4. Thêm các user trên giao diện.
 5. Chạy file main.py để bật camera và bắt đầu điểm danh.  
+
+
+<a href="https://github.com/deepinsight/insightface">InsightFace</a>
+<a href="https://drive.google.com/drive/folders/1aEzYmEbPrNInDQjFQMTZtllIPUBZ28JX?fbclid=IwY2xjawI3qMBleHRuA2FlbQIxMAABHVzvXhyUtmfFUIDU90ixrT-ncj0nGCY5L_WJGn6vZWD7J6BELG6yJN-nMg_aem_dpErZmpuldHWdg4P7wmkaQ">arcface_r100.pth</a>
